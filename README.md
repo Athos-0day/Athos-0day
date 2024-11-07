@@ -29,4 +29,4 @@
 
  ## Github overview:
  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&layout=compact)
