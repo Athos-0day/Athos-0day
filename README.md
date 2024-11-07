@@ -29,4 +29,4 @@
 
  ## Github overview:
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&layout=compact&style=dark)
