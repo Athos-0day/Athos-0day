@@ -6,27 +6,26 @@
 
  ## Current works:
 
--> Learning C++ with the book Think like a programmer
+- Learning C++ with the book Think like a programmer
 
--> Working cybersecurity on TryHackMe Top6%
+- Working cybersecurity on TryHackMe Top6%
 
--> Working on a video game to raise awareness about cybersecurity
+- Working on a video game to raise awareness about cybersecurity
   
  ## Languages:
 
- ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
- ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
- ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,py,ocaml,mysql)](https://skillicons.dev)
 
- ## Tools:
+## Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,obsidian,kali,github,bash,apple,vim)](https://skillicons.dev)
+
 
  ## Contact me:
 
- Discord: athos.0day
+ - Discord: athos.0day
 
- Mail : athos.0day@protonmail.com
+ - Mail : athos.0day@protonmail.com
 
  ## Github overview:
  
