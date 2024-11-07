@@ -6,7 +6,11 @@
 
  ## Current works:
 
-  . Reading Think like a programmer to learn C++
+-> Learning C++ with the book Think like a programmer
+
+-> Working cybersecurity on TryHackMe Top6%
+
+-> Working on a video game to raise awareness about cybersecurity
   
  ## Languages:
 
@@ -19,6 +23,10 @@
  ## Tools:
 
  ## Contact me:
+
+ Discord: athos.0day
+
+ Mail : athos.0day@protonmail.com
 
  ## Github overview:
  
