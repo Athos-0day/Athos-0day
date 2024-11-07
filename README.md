@@ -14,11 +14,11 @@
   
  ## Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,py,ocaml,mysql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,cpp,c,py,ocaml,mysql)
 
 ## Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,obsidian,kali,github,bash,apple,vim)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vscode,powershell,obsidian,kali,github,bash,apple,vim)
 
 
  ## Contact me:
@@ -28,6 +28,5 @@
  - Mail : athos.0day@protonmail.com
 
  ## Github overview:
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&layout=compact&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&layout=donut&theme=radical)
