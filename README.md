@@ -6,6 +6,8 @@
 
  ## Current works:
 
+  . Reading Think like a programmer to learn C++
+  
  ## Languages:
 
  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
