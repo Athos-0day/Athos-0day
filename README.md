@@ -8,7 +8,7 @@
 
 - Learning C++ with the book Think like a programmer
 
-- Working cybersecurity on TryHackMe Top6%
+- Working cybersecurity on TryHackMe Top6% @athos0day
 
 - Working on a video game to raise awareness about cybersecurity
   
