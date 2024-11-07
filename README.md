@@ -29,4 +29,5 @@
 
  ## Github overview:
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&layout=compact&style=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
