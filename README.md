@@ -16,11 +16,11 @@
   
  ## Languages:
 
-![My Skills](https://skillicons.dev/icons?i=js,cpp,c,py,ocaml,mysql)
+![My Skills](https://skillicons.dev/icons?i=js,cpp,c,py,ocaml,mysql,matlab)
 
 ## Tools:
 
-![My Skills](https://skillicons.dev/icons?i=vscode,powershell,obsidian,kali,github,bash,apple,vim)
+![My Skills](https://skillicons.dev/icons?i=vscode,powershell,obsidian,kali,github,bash,apple,vim,latex,linux)
 
 
  ## Contact me:
