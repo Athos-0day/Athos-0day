@@ -20,7 +20,7 @@
 
 ## Tools:
 
-![My Skills](https://skillicons.dev/icons?i=vscode,powershell,obsidian,kali,github,bash,apple,vim,latex,linux)
+![My Skills](https://skillicons.dev/icons?i=vscode,powershell,obsidian,kali,github,bash,apple,vim,latex,linux&perline=5)
 
 
  ## Contact me:
