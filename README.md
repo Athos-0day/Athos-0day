@@ -12,7 +12,7 @@
 
 - Working on a video game to raise awareness about cybersecurity
 
-- Working on OSINTPedia project
+- OSINTPedia project
   
  ## Languages:
 
