@@ -6,8 +6,6 @@
 
  ## Current works:
 
-- Learning C++ with the book Think like a programmer
-
 - Working cybersecurity on TryHackMe Top5% 
 
 - Working on a video game to raise awareness about cybersecurity
