@@ -6,7 +6,7 @@
 
  ## Current works:
 
-- Working cybersecurity on TryHackMe Top5% 
+- Working cybersecurity on TryHackMe Top4% 
 
 - Working on a video game to raise awareness about cybersecurity
 
