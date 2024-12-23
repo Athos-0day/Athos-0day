@@ -6,7 +6,7 @@
 
  ## Current works:
 
- -Reading **Breaking Codes with Python**
+- Reading Breaking Codes with Python
 
 - Working cybersecurity on TryHackMe Top4% 
 
