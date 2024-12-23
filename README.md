@@ -6,6 +6,8 @@
 
  ## Current works:
 
+ -Reading **Breaking Codes with Python**
+
 - Working cybersecurity on TryHackMe Top4% 
 
 - Working on a video game to raise awareness about cybersecurity
