@@ -12,7 +12,6 @@
 
 - Working on a video game to raise awareness about cybersecurity
 
-- OSINTPedia project
   
  ## Languages:
 
