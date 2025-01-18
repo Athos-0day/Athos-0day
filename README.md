@@ -8,7 +8,7 @@
 
 - Reading Breaking Codes with Python
 
-- Working cybersecurity on TryHackMe Top4% 
+- Working cybersecurity on TryHackMe Top3% 
 
 - Working on a video game to raise awareness about cybersecurity
 
