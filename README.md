@@ -12,7 +12,7 @@
   
  ## Languages:
 
-![My Skills](https://skillicons.dev/icons?i=js,cpp,c,py,ocaml,mysql,matlab)
+![My Skills](https://skillicons.dev/icons?i=js,cpp,c,py,ocaml,mysql,matlab,java)
 
 ## Tools:
 
