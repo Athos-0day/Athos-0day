@@ -8,7 +8,7 @@
 
 - Reading How Linux works
 
-- Working cybersecurity on TryHackMe Top3% 
+- Working cybersecurity on TryHackMe Top2% 
   
  ## Languages:
 
