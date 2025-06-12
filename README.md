@@ -14,7 +14,7 @@
   
  ## Languages:
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,py,ocaml,mysql,matlab,java)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,py,ocaml,matlab,java)
 
 ## Tools:
 
