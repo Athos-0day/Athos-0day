@@ -6,8 +6,6 @@
 
  ## Current works:
 
-- Reading How Linux works
-
 - Working cybersecurity on TryHackMe Top2%
 
 - Working on my own C compiler !
