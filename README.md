@@ -16,7 +16,7 @@
 
 ## Tools:
 
-![My Skills](https://skillicons.dev/icons?i=vscode,powershell,obsidian,kali,github,bash,apple,vim,latex,linux&perline=5)
+![My Skills](https://skillicons.dev/icons?i=vscode,docker,obsidian,kali,github,bash,apple,vim,latex,linux&perline=5)
 
 
  ## Contact me:
