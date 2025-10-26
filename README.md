@@ -1,30 +1,41 @@
 <h1 align="center">Hi, I'm Athos</h1>
-<!--  -->
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+science+engineer+student;Cybersecurity+enthusiast;Online+privacy+advocate"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Engineering+Student;Cybersecurity+Enthusiast;Online+Privacy+Advocate" alt="Typing SVG">
+  </a>
 </p>
 
- ## Current works:
+---
 
-- Working cybersecurity on TryHackMe Top2%
+## 🔭 Current Work
 
-- Working on my own C compiler !
-  
- ## Languages:
+- Developing **cybersecurity workshops**  
+- Contributing to a **student nano-satellite project**
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,py,ocaml,matlab,java)
+---
 
-## Tools:
+## 💻 Languages
 
-![My Skills](https://skillicons.dev/icons?i=vscode,docker,obsidian,kali,github,bash,apple,vim,latex,linux&perline=5)
+![Languages](https://skillicons.dev/icons?i=cpp,c,py,ocaml,matlab,java)
 
+---
 
- ## Contact me:
+## 🧰 Tools
 
- - Discord: athos.0day
+![Tools](https://skillicons.dev/icons?i=vscode,docker,obsidian,github,bash,apple,latex,linux&perline=4)
 
- - Mail : athos.0day@protonmail.com
+---
 
- ## Github overview:
+## 📫 Contact Me
+
+- 💬 **Discord:** `athos.0day`  
+- 📧 **Email:** [athos.0day@protonmail.com](mailto:athos.0day@protonmail.com)
+
+---
+
+## 📊 GitHub Overview
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athos-0day&layout=donut&theme=radical)
+
+---
