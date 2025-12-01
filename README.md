@@ -29,7 +29,7 @@
 
 ## 📫 Contact Me
 
-- 💬 **Discord:** `athos.0day`  
+- 💬 **Discord:** `athos0x10`  
 - 📧 **Email:** [athos.0day@protonmail.com](mailto:athos.0day@protonmail.com)
 
 ---
