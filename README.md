@@ -12,7 +12,7 @@
 
 - Developing **cybersecurity workshops**  
 - Contributing to a **student nano-satellite project**
-- Working on a **identity generator**
+- Working on an **identity generator**
 
 ---
 
